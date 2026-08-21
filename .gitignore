@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Large ML files
+*.pkl
+*.joblib
+
+# DVC cache
+.dvc/cache/
+
+# OS
+.DS_Store
+Thumbs.db
