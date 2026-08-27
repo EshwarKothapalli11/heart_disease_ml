@@ -1,3 +1,3 @@
-# Machine Learning model training script
+# Machine Learning Training Script
 
 print("ML project initialized")
